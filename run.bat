@@ -1,0 +1,3 @@
+@echo off
+echo Ejecutando game.gb en BGB...
+start "" "C:\Projects\bgb\bgb.exe" "game.gb"
